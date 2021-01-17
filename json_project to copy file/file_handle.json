@@ -1,0 +1,16 @@
+{
+    "False": false,
+    "None": null,
+    "True": true,
+    "ascii": "\u00f7",
+    "float": 4.9,
+    "int": 8,
+    "list": [
+        "red",
+        "blue"
+    ],
+    "tuple": [
+        "sai",
+        "future"
+    ]
+}
